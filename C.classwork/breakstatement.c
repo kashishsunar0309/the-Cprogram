@@ -8,7 +8,7 @@ int main()
         if (roll == 21)
         {
             printf(" found :%d\n", roll);
-            break;
+            break; // if we use here continue its disappear 21 continue to roll>=40 from for loop statement
         }
         printf("search roll no :%d\n", roll);
     }
