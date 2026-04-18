@@ -12,5 +12,3 @@ It documents what I’ve learned in class and shows my growth as I practice and 
 - Practice clean coding habits
 - Track my progress over time
 
-
-for project based knowledge:https://github.com/practical-tutorials/project-based-learning.git
