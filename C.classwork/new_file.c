@@ -1,8 +1,10 @@
 #include <stdio.h>
+#include <string.h> // Needed for strlen()
+
 int main()
 {
-    char carName[] = "Volvo";
-    int length = sizeof(carName) / sizeof(carName[0]);
+    char carName[] = "volvo";
+    int length = strlen(carName); // Correct way to get string length
     int i;
 
     for (i = 0; i < length; ++i)
